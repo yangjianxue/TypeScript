@@ -1,0 +1,2 @@
+# TypeScript
+typeScript笔记
